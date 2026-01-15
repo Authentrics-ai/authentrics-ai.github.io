@@ -1,1 +1,1 @@
-# authentrics.ai.github.io
+# authentrics-ai.github.io
